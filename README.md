@@ -79,5 +79,6 @@ I'm always open to collaborating on exciting web projects, creative video edits,
 ---
 
 > 💡 *"Passionate about clean code and continuous learning in tech."*
+>Quote of the day :  " i took a walk into the woods and came out taller then the trees"
 
 <p align="right"><i>Last updated: August 2026</i></p>
