@@ -187,7 +187,7 @@ A standalone cross-platform project built with Dart.
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="https://sammad.xyz">
+<a href="https://sadmad.xyz">
 <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
