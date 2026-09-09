@@ -38,25 +38,6 @@ I work across **web development, AI tools, video editing, and game development**
 
 ---
 
-# 🧰 Tech Stack
-
-### 💻 Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,c,cpp,dart&perline=9">
-</p>
-
-### 🎬 Creative & AI
-
-<p align="center">
-<img src="https://img.shields.io/badge/Video%20Editing-111827?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white">
-<img src="https://img.shields.io/badge/CapCut-111827?style=for-the-badge&logo=capcut&logoColor=white">
-<img src="https://img.shields.io/badge/ChatGPT-111827?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/AI%20Tools-8B5CF6?style=for-the-badge&logo=probot&logoColor=white">
-</p>
-
----
-
 # 🔥 What I'm Currently Building
 
 ### 🌐 Web Development
